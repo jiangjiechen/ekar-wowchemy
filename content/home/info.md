@@ -66,7 +66,7 @@ More importantly, we design a **free-text explanation scheme** to explain whethe
 > 
 > - $E_D$: After "textbooks" are printed in the "printing factory", they are sold in a "bookstore". But the terms order is inconsistent with the query.
 
-### How to Load the Dataset?
+## How to Load the Dataset?
 
 ```python3
 import datasets   # 🤗
@@ -74,32 +74,7 @@ ekar_zh = datasets.load_dataset('Jiangjie/ekar_chinese')
 ekar_en = datasets.load_dataset('Jiangjie/ekar_chinese')
 ```
 
-## Supported Tasks in E-KAR and Task Modes
-
-There are altogether `8` task settings: `2 shared tasks` * `2 task modes` * `2 languages`.
-
-### E-KAR supports two shared tasks: 
-- `analogical-qa`: The dataset can be used to train a model for analogical reasoning in the form of multiple-choice QA.
-- `explanation-generation`: The dataset can be used to generate free-text explanations to rationalize analogical reasoning.
-
-### E-KAR also supports two task modes: 
-- `EASY mode`: where query explanation ($E_Q$) can be used as part of the input.
-- `HARD mode`: no explanation is allowed as part of the input.
-
-### E-KAR supports two languages:
-- `Chinese version`: 1,655 problems and 8,275 sentences of explanations, sourced from Civil Service Exams of China with manually annotated explanations.
-  - Train split: 1155
-  - Validation split: 165
-  - Blind test split: 335
-- `English version`: 1,251 problems and 6,255 sentences of explanations, translated from Chinese version with culture-specific samples removed or rewritten.
-  - Train split: 870
-  - Validation split: 119
-  - Blind test split: 262
-
-
 ## Visualizing Analogical Reasoning
 
 ![ekar-example](/uploads/ekar-example.jpg)
-
-
 

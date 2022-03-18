@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Leaderboard
 subtitle:
@@ -28,5 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Please submit your results at https://eval.ai [TODO].
+Please submit your results at https://eval.ai [coming soon!].
 
