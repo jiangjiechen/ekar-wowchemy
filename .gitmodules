@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/ekar-leaderboard/ekar-leaderboard.github.io/
+	branch = main
