@@ -71,7 +71,7 @@ More importantly, we design a **free-text explanation scheme** to explain whethe
 ```python3
 import datasets   # 🤗
 ekar_zh = datasets.load_dataset('Jiangjie/ekar_chinese')
-ekar_en = datasets.load_dataset('Jiangjie/ekar_chinese')
+ekar_en = datasets.load_dataset('Jiangjie/ekar_english')
 ```
 
 ## Visualizing Analogical Reasoning

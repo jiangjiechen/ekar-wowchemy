@@ -29,6 +29,8 @@ design:
 ---
 
 
-**If you have any questions, feel free to [contact us](mailto:jjchen19@fudan.edu.cn)!**
+<div style="text-align: center;">
+<b>If you have any questions, feel free to <a href="mailto:jjchen19@fudan.edu.cn">contact us</a></b>
 
-*More information about our work can be found at [here](https://jiangjiechen.github.io).*
+<i>(More information about our work can be found at <a href="https://jiangjiechen.github.io">here</a>.)</i>
+</div>
