@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 100
 
-title: Leaderboard
+title: Visitors
 subtitle:
 
 design:
@@ -28,5 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Please submit your results at [EvalAI](https://eval.ai/web/challenges/challenge-page/1671/overview) (available soon!).
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pOieChE71IgprpCQXh0zYPwboWDea8Dwh8v9cAyPlnI"></script>
