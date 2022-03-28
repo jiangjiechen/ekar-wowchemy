@@ -4,7 +4,7 @@
 widget: blank
 
 # Activate this widget? true/false
-active: true
+active: false
 
 # This file represents a page section.
 headless: true
@@ -28,5 +28,6 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-
+<div style="height:200px; width: 200px; text-align: center;" align=center>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=pOieChE71IgprpCQXh0zYPwboWDea8Dwh8v9cAyPlnI"></script>
+</div>

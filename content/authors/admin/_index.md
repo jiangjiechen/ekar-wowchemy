@@ -6,7 +6,7 @@ title: "E-KAR"
 superuser: true
 
 # Role/position
-role: 'Leaderboard for Explainable Knowledge-intensive Analogical Reasoning'
+role: 'Benchmark for Explainable Knowledge-intensive Analogical Reasoning'
 
 # Status emoji
 status:

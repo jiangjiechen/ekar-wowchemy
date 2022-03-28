@@ -28,5 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Please submit your results at [EvalAI](https://eval.ai/web/challenges/challenge-page/1671/overview) (available soon!).
+Please submit and evaluate your results on the test sets at the publicly available [E-KAR leaderboard](https://eval.ai/web/challenges/challenge-page/1671/overview) hosted at EvalAI.
 
+Note that the leaderboard only evaluates Analogical QA and Rationalized Analogical QA tasks, in order to avoid using unreliable automatic metrics for evaluating text generation (i.e., explanations).
+See the [E-KAR leaderboard](https://eval.ai/web/challenges/challenge-page/1671/overview) for participation details.
