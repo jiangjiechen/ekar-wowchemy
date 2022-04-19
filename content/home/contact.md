@@ -31,6 +31,4 @@ design:
 
 <div style="text-align: center;">
 <b>If you have any questions, feel free to <a href="mailto:jjchen19@fudan.edu.cn">contact us</a>!</b>
-
-<i>(More information about our work can be found at <a href="https://jiangjiechen.github.io">here</a>.)</i>
 </div>

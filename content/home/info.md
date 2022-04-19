@@ -33,6 +33,7 @@ Holding the belief that models capable of reasoning should be right for the righ
 Our benchmark consists of 1,655 (in **Chinese**) and 1,251 (in **English**) problems sourced from **the Civil Service Exams**, which require intensive background knowledge to solve. 
 More importantly, we design a **free-text explanation scheme** to explain whether an analogy should be drawn, and manually annotate them for *each and every question and candidate answer*.
 
+You can find the slides, poster and video about E-KAR at <a href="https://jiangjiechen.github.io/publication/ekar/">here</a>.
 
 ## Data Instance
 
