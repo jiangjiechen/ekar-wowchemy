@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: Contact
 subtitle:
@@ -30,5 +30,5 @@ design:
 
 
 <div style="text-align: center;">
-<b>If you have any questions, feel free to <a href="mailto:jjchen19@fudan.edu.cn">contact us</a>!</b>
+<i>If you have any questions, feel free to <a href="mailto:jjchen19@fudan.edu.cn">contact us</a>!</i>
 </div>
