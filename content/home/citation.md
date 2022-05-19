@@ -29,15 +29,28 @@ design:
 ---
 
 
-If you find this work useful to your research, please kindly cite our paper (pre-print, official bibtex coming soon): 
+If you find this work useful to your research, please kindly cite our paper: 
 
 ```latex
-@article{chen2022ekar,
-    title={E-KAR: A Benchmark for Rationalizing Natural Language Analogical Reasoning},
-    author={Jiangjie Chen and Rui Xu and Ziquan Fu and Wei Shi and Zhongqiao Li and Xinbo Zhang and Changzhi Sun and Lei Li and Yanghua Xiao and Hao Zhou},
-    year={2022},
-    eprint={2203.08480},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{chen-etal-2022-e,
+    title = "{E}-{KAR}: A Benchmark for Rationalizing Natural Language Analogical Reasoning",
+    author = "Chen, Jiangjie  and
+      Xu, Rui  and
+      Fu, Ziquan  and
+      Shi, Wei  and
+      Li, Zhongqiao  and
+      Zhang, Xinbo  and
+      Sun, Changzhi  and
+      Li, Lei  and
+      Xiao, Yanghua  and
+      Zhou, Hao",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.311",
+    pages = "3941--3955",
 }
+
 ```
