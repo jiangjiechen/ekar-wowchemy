@@ -28,3 +28,5 @@ design:
   spacing: {padding: [0, 0, 0, 0]}
 ---
 
+
+[**News** (09/2022)]: E-KAR v1.1 is officially released, with a higher-quality English dataset! In v1.1, we further improve the Chinese-to-English translation quality of the English E-KAR, with 600+ problems and 1,000+ explanations manually adjusted. You can still find the previous version (as in the paper) in the v1.0 branch in 🤗 datasets⬇️.

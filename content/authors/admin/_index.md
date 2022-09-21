@@ -6,7 +6,7 @@ title: "E-KAR"
 superuser: true
 
 # Role/position
-role: 'Benchmark for Explainable Knowledge-intensive Analogical Reasoning'
+role: 'Explainable & Knowledge-intensive Analogical Reasoning'
 
 # Status emoji
 status:
@@ -22,6 +22,6 @@ bio:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jjchen19@fudan.edu.cn"
 ---
 

@@ -7,18 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Paper
+  - name: Resources
     url: '#portfolio'
     weight: 20
-  - name: Dataset
-    url: '#portfolio'
-    weight: 30
   - name: About
     url: '#info'
-    weight: 40
+    weight: 30
   - name: Tasks
     url: '#tasks'
-    weight: 45
+    weight: 40
   - name: Leaderboard
     url: '#leaderboard'
     weight: 50
